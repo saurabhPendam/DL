@@ -44,7 +44,7 @@ b. Generate training data
 c. Train model
 d. Output
 
-5_Assignment_Problem Statement: Object detection using Transfer Learning of CNN architectures for the given (image dataset) using the below steps:
+6_Assignment_Problem Statement: Object detection using Transfer Learning of CNN architectures for the given (image dataset) using the below steps:
 a. Load in a pre-trained CNN model trained on a large dataset
 b. Freeze parameters (weights) in model's lower convolutional layers
 c. Add custom classifier with several layers of trainable parameters to model
